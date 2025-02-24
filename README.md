@@ -18,5 +18,5 @@ This deep learning project predicts employee attrition using historical HR data.
 - Install dependencies:
 pip install -r requirements.txt
 
-- Run the script
+- Run the script:
 python Employee.py
